@@ -1,4 +1,4 @@
-# GPU-Quicksort-OpenCL-
+# GPU-Bubblesort-OpenCL-
 An implementation of the bubblesort sorting algorithm that runs on a GPU using OpenCL  
 
 Description:
