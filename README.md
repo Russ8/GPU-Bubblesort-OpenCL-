@@ -1,5 +1,5 @@
 # GPU-Quicksort-OpenCL-
-An implementation of the quicksort sorting algorithm that runs on a GPU using OpenCL  
+An implementation of the bubblesort sorting algorithm that runs on a GPU using OpenCL  
 
 Description:
 Using GPU hardware to perform parallel sorting algorithms is a common research topic, as
